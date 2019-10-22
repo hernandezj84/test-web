@@ -8,5 +8,17 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@wdio/cli": "^5.15.2",
+    "@wdio/local-runner": "^5.15.2",
+    "@wdio/mocha-framework": "^5.15.1",
+    "@wdio/spec-reporter": "^5.15.2",
+    "@wdio/sync": "^5.15.1",
+    "chromedriver": "^77.0.0",
+    "wdio-chromedriver-service": "^5.0.2"
+  },
+  "dependencies": {
+    "jest": "^24.9.0"
+  }
 }
